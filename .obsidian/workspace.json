@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "3c11b073163b4145",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a53631519e4d655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e3df51a3e5100e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker Merged.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker Merged"
+            }
+          },
+          {
+            "id": "a1730112d1517360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/12. Debugging a Container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Debugging a Container"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac50f568f0bb8f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "104f94a03460f682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95d5c9fd20825d5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "148855b1d20d558f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d803bdf24fbc4ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bc12206bd064bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c96c6d17b82f89d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb3045d8f1027ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5c7f72077b80fb3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "90e94c6d3f466315",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "72b5d23d9e5db27e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9f7c8dfeb96090ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8e3df51a3e5100e8",
+  "lastOpenFiles": [
+    "Docker/1. The Basics.md",
+    "Docker/Docker Merged.md",
+    "Docker/12. Debugging a Container.md",
+    "The Basics.md",
+    "Docker/10. DockerHub.md",
+    "Docker/11. Making Space in Docker VM.md",
+    "Docker/13. Docker Best Practices.md",
+    "Docker/5. Creating Docker Containers from Dockerfiles.md",
+    "Docker/9. Volume Mounting.md",
+    "Docker/8. Binding Ports to Containers.md",
+    "Docker/7. Stopping and Removing Containers and Images.md",
+    "Docker/6. Interacting with Containers.md",
+    "Docker/4. Creating a Docker Container - CLI.md",
+    "Docker/3. Docker CLI - Basics.md",
+    "Docker/2. Docker Desktop.md",
+    "Docker/Images/Pasted image 20250517180157.png",
+    "Docker/Images",
+    "Docker/Images/Exercise 1.md",
+    "Docker/Images/Pasted image 20250504202154.png",
+    "Docker/Images/Pasted image 20250505075813.png",
+    "Docker/Images/Pasted image 20250504204822.png",
+    "Docker",
+    "2025-05-04.md",
+    "Untitled.canvas",
+    "Docker/Images/Pasted image 20250504212537.png",
+    "Docker/Images/Pasted image 20250504212453.png",
+    "Docker/Images/Pasted image 20250504212340.png",
+    "Docker/Images/Pasted image 20250504212316.png",
+    "Welcome.md"
+  ]
+}
